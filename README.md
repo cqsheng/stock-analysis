@@ -8,7 +8,7 @@
 ## Results
     
 ### Stock performance comparison
-    Although the exact numbers changed, the same two stocks produced a positive return for both 2017 and 2018 while every other stock produced negative returns.
+    Although the exact numbers changed, the same two stocks, ENPH and RUN produced a positive return for both 2017 and 2018 while every other stock produced negative returns.
     
 ![](/images/VBA_Challenge_2017_stocks.png)
 ![](/images/VBA_Challenge_2018_stocks.png)
@@ -21,8 +21,8 @@
 ## Summary
     
 ### 1.What are the advantages and disadvantages of refactoring code?
-    
+    The general advantages to refactoring the code is that it's done to make the code more efficient, by taking less steps for the the code to run, using less memory or less steps. The disadvantage is that refactoring takes more time on the developers side, even though there is already a working version of the code, you'll be spending more time in making a more efficient refactored code, which could be much more difficult to write from a logical standpoint than the original code that was first made to solve the problem.
 ### 2.How do these pros and cons apply to refactoring the original VBA script?
-
+    To use this challenge as an example, the pros for the refactored code is that it runs significantly faster, more than 5 times faster on the same dataset on my computer. The cons is that it takes longer to actually code for, requiring the creation of new variables and arrays. As well as knowing the the original code and data well enough to be able to create a version of the code that doesn't require the nested for loops to analyze the results in one pass of the data.
 
 
