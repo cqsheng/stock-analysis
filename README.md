@@ -10,7 +10,7 @@
 ### Stock performance comparison
 
 ### Refactored script execution times
-
+As can be seen on the pictures below, the code refactoring helped improve the performance of the script drastically, the runtime for the code before(shown on the left) takes more than 5 times to run than the code after its refactored(shown on the right).
 ![](/images/VBA_Challenge_2018.png)
 ![](/images/VBA_Challenge_2018_Refactored.png)
 ## Summary
