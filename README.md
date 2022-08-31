@@ -10,8 +10,9 @@
 ### Stock performance comparison
 
 ### Refactored script execution times
-![](/images/VBA_challenge_2018.png)
-![](/images/VBA_challenge_2018_refactored.png)
+
+![](/images/VBA_Challenge_2018.png)
+![](/images/VBA_Challenge_2018_Refactored.png)
 ## Summary
 
 ### 1.What are the advantages and disadvantages of refactoring code?
