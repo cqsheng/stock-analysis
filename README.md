@@ -7,8 +7,8 @@
 
 ## Results
     
-### Stock performance comparison
-   2017 was a much better stock performance year than 2018, there was only one stock with a negative return rate in 2017 and that was only by -7.2%, while all the other 11 stocks had positive returns. By contrast 2018 only had 2 stocks with positive return rates, resulting in a much worse performing year overall.
+### Stock performance comparsion
+    2017 was a much better stock performance year than 2018, there was only one stock with a negative return rate in 2017 and that was only by -7.2%, while all the other 11 stocks had positive returns. By contrast 2018 only had 2 stocks with positive return rates, resulting in a much worse performing year overall.
     
 ### Refactored script execution times
     As can be seen on the pictures below, the code refactoring helped improve the performance of the script drastically, the runtime for the code in 2017(shown on the left) takes slightly more time to run than for 2018(shown on the right). However both were much faster than the non refactored code, taking less than a fifth of the time to run compared to them.
