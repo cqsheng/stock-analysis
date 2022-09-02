@@ -8,16 +8,14 @@
 ## Results
     
 ### Stock performance comparison
-    Although the exact numbers changed, the same two stocks, ENPH and RUN produced a positive return for both 2017 and 2018 while every other stock produced negative returns.
+   2017 was a much better stock performance year than 2018, there was only one stock with a negative return rate in 2017 and that was only by -7.2%, while all the other 11 stocks had positive returns. By contrast 2018 only had 2 stocks with positive return rates, resulting in a much worse performing year overall.
     
-![](/images/VBA_Challenge_2017_stocks.png)
-![](/images/VBA_Challenge_2018_stocks.png)
 ### Refactored script execution times
-    As can be seen on the pictures below, the code refactoring helped improve the performance of the script drastically, the runtime for the code before(shown on the left) takes more than 5 times to run than the code after its refactored(shown on the right).
+    As can be seen on the pictures below, the code refactoring helped improve the performance of the script drastically, the runtime for the code in 2017(shown on the left) takes slightly more time to run than for 2018(shown on the right). However both were much faster than the non refactored code, taking less than a fifth of the time to run compared to them.
     This is done by removing the nested for loops which loops over the entire dataset for each ticker, into one for loop which loops over the data just once, and using different arrays to store the value for all the different stocks.
     
+![](/images/VBA_Challenge_2017.png)
 ![](/images/VBA_Challenge_2018.png)
-![](/images/VBA_Challenge_2018_Refactored.png)
 ## Summary
     
 ### 1.What are the advantages and disadvantages of refactoring code?
